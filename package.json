@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "browser-sync": "^2.6.5",
+    "gulp": "^3.8.11",
     "gulp-autoprefixer": "^2.2.0",
     "gulp-data": "^1.2.0",
     "gulp-filesize": "0.0.6",
